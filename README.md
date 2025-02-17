@@ -23,7 +23,7 @@ block_sync/
 │   ├── config.py         # Configuration loading functions
 │   ├── notebook.py       # Notebook parsing functions
 │   └── updater.py        # File updating functions
-├── cli.py                # Entry script for executing the synchronization
+├── main.py                # Entry script for executing the synchronization
 ├── config.yaml           # Project configuration file
 ├── pyproject.toml        # Packaging configuration (PEP 517)
 ├── README.md             # This file
